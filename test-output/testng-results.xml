@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-24T13:56:16 IST" name="My Suite" finished-at="2023-02-24T13:56:16 IST" duration-ms="87">
+    <groups>
+    </groups>
+    <test started-at="2023-02-24T13:56:16 IST" name="My Test" finished-at="2023-02-24T13:56:16 IST" duration-ms="87">
+      <class name="Strings.Duplicates">
+        <test-method signature="duplicate_Character()[pri:0, instance:Strings.Duplicates@5a45133e]" started-at="2023-02-24T13:56:16 IST" name="duplicate_Character" finished-at="2023-02-24T13:56:16 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- duplicate_Character -->
+      </class> <!-- Strings.Duplicates -->
+    </test> <!-- My Test -->
+  </suite> <!-- My Suite -->
+</testng-results>
