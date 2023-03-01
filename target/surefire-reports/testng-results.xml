@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-02-24T14:33:43 IST" name="Suite" finished-at="2023-02-24T14:33:43 IST" duration-ms="73">
+  <suite name="Suite" duration-ms="114" started-at="2023-02-24T19:02:14 IST" finished-at="2023-02-24T19:02:14 IST">
     <groups>
     </groups>
-    <test started-at="2023-02-24T14:33:43 IST" name="Test" finished-at="2023-02-24T14:33:43 IST" duration-ms="73">
+    <test name="Test" duration-ms="114" started-at="2023-02-24T19:02:14 IST" finished-at="2023-02-24T19:02:14 IST">
       <class name="Strings.Duplicates">
-        <test-method signature="duplicate_Character()[pri:0, instance:Strings.Duplicates@316bcf94]" started-at="2023-02-24T14:33:43 IST" name="duplicate_Character" finished-at="2023-02-24T14:33:43 IST" duration-ms="13" status="PASS">
+        <test-method status="PASS" signature="duplicate_Character()[pri:0, instance:Strings.Duplicates@cb0ed20]" name="duplicate_Character" duration-ms="11" started-at="2023-02-24T19:02:14 IST" finished-at="2023-02-24T19:02:14 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- duplicate_Character -->
